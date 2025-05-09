@@ -30,5 +30,7 @@ Author:
 Ashish7i0
 GitHub: https://github.com/Ashish7i0
 
-SS of EC2:
+## Website Preview
+
+![CI/CD Website Screenshot]: 
 <img width="1710" alt="Screenshot 2025-05-09 at 7 03 48 PM" src="https://github.com/user-attachments/assets/c80d66eb-efc1-4256-b86b-cfe39d246b73" />
